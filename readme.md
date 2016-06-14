@@ -4,4 +4,4 @@
 
 Here you can see the code of the picture.
 
-![Original articles web site ](http://designmodo.com/create-credit-card-ui/)
+[Original article from web site](http://designmodo.com/create-credit-card-ui/)
