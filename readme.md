@@ -1,4 +1,6 @@
 ###How to Create a Credit Card UI using HTML and CSS3
+####Please check this link:
+http://bratela.github.io/ui_credit_card/
 
 ![Template credit card payment.](css-3.png)
 
