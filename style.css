@@ -27,6 +27,9 @@ body {
   color         : #86939e;
   opacity       : .7;
   height        : 42px;
+  font-size     : 14px;
+  font-weight   : 100;
+  line-height   : 14px;
 }
 
 .credit-card {
