@@ -24,6 +24,9 @@ body {
   padding-left  : 20px;
   border        : 2px solid #e1e8ee;
   border-radius : 6px;
+  color         : #86939e;
+  opacity       : .7;
+  height        : 42px;
 }
 
 .credit-card {
